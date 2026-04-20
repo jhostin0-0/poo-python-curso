@@ -85,7 +85,7 @@ Debes conectar tu repositorio con el del profesor (esto se hace una sola vez).
 ## 1. Agregar repositorio del profesor
 
 ```bash id="3g7j9k"
-git remote add upstream https://github.com/TU-USUARIO/poo-python-curso.git
+git remote add upstream https://github.com/arleyfernandotorresgalindo/poo-python-curso.git
 ```
 
 ---
